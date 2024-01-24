@@ -1,6 +1,6 @@
 ## specificity
 
-1. '!important' --> used in the value.
+1. '!important' --> used inside after the value.
 2. inline css
 3. id selector
 4. class selector

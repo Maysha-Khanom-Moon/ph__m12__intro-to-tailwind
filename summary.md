@@ -5,3 +5,7 @@
 
 
 #### font size
+
+
+#### for suggestions: tailwind.config.js. also paste the code from tailwind website.
+#### if it not show the suggestions --> ctrl + enter
